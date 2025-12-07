@@ -31,7 +31,7 @@ Durch **flexible Arbeitszeiten** reinigen wir dann, wenn es für Ihren Betrieb a
 
 ---
 
-## 🧽 Unsere Leistungen
+## Unsere Leistungen
 
 <div style="display:flex; gap:16px; flex-wrap:wrap;">
 
@@ -57,35 +57,35 @@ Durch **flexible Arbeitszeiten** reinigen wir dann, wenn es für Ihren Betrieb a
 
 </div>
 
-> 💡 **Nicht das Richtige dabei?**  
+> **Nicht das Richtige dabei?**  
 > Schreiben Sie uns – wir erstellen gerne ein individuelles Reinigungskonzept.
 
 ---
 
-## ✅ Warum Tsakalis?
+## Warum Tsakalis?
 
-- 🤝 **Persönlicher Kontakt** – fester Ansprechpartner statt Hotline  
-- 💶 **Transparente Preise** – klare Angebote ohne versteckte Kosten  
-- ⏰ **Flexible Zeiten** – Reinigung außerhalb Ihrer Geschäftszeiten  
-- 🔁 **Konstante Qualität** – feste Teams, eingespielte Abläufe  
+- **Persönlicher Kontakt** – fester Ansprechpartner statt Hotline  
+- **Transparente Preise** – klare Angebote ohne versteckte Kosten  
+- **Flexible Zeiten** – Reinigung außerhalb Ihrer Geschäftszeiten  
+- **Konstante Qualität** – feste Teams, eingespielte Abläufe  
 
 ---
 
-## 📍 Einsatzgebiet
+## Einsatzgebiet
 
 Wir sind in **München und Umgebung** unterwegs und betreuen sowohl gewerbliche als auch private Objekte.
 
 ---
 
-## 📞 Kontakt
+## Kontakt
 
 <div style="padding:14px; border-radius:10px; border:1px solid #e5e7eb; background:#f9fafb;">
 
 **Telefon:**  
-📱 <a href="tel:+498900000000">089 / 000 00 000</a>  
+  <a href="tel:+498900000000">089 / 000 00 000</a>  
 
 **E-Mail:**  
-📧 <a href="mailto:info@tsakalis-reinigung.de">info@tsakalis-reinigung.de</a>  
+  <a href="mailto:info@tsakalis-reinigung.de">info@tsakalis-reinigung.de</a>  
 
 **Anfrage:**  
 Bitte senden Sie uns kurz folgende Informationen:
