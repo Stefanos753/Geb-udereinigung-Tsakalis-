@@ -144,8 +144,7 @@
         direkt per E-Mail oder Telefon melden.
       </p>
     </section>
-
-  </main>
+    </main>
 
   <footer class="footer">
     <p>&copy; 2025 Gebäudereinigung Tsakalis · München</p>
