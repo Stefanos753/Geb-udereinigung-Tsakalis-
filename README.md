@@ -1,5 +1,3 @@
-# Gebäudereinigung Tsakalis
-
 <div style="padding:20px; background:#0b1120; color:white; border-radius:10px;">
   <h1 style="margin:0;">Gebäudereinigung Tsakalis</h1>
   <p>Sauberkeit, auf die du dich verlassen kannst.</p>
