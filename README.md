@@ -18,7 +18,7 @@
 
 ---
 
-## 🧼 Über uns
+## Über uns
 
 Wir sind ein modernes, zuverlässiges Reinigungsunternehmen aus München.  
 Unser Schwerpunkt liegt auf:
